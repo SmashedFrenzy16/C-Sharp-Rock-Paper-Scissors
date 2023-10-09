@@ -74,7 +74,7 @@ do
         }
         else if (outcomes[r] == "Computer: Rock")
         {
-            Console.WriteLine("You lost!");
+            Console.WriteLine("You won!");
         }
 
         Console.ForegroundColor = ConsoleColor.DarkRed;
